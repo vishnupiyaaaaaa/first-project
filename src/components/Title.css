@@ -1,0 +1,50 @@
+.box{
+    width:100%;
+    height:40vh;
+background-color: rgb(107, 107, 223);
+padding:0px;
+    
+
+}
+
+.box img{
+    width:100%;
+    height:40vh;
+    padding:0px;
+    margin: 0%;
+    text-align: center;
+}
+.box h3{
+     margin-top: -235px;
+     color:rgb(75, 21, 21);
+}
+.btn1{
+    background-color: rgb(168, 25, 25);
+}
+#exploreid h2{
+    color:rgb(75, 21, 21);
+}
+#exploreid p{
+    padding-left: 80px;
+    padding-right: 80px;
+   
+}
+#cardbox{
+    display:flex;
+    
+    flex-direction: row;
+}
+#cards{
+     margin-right: 30px;
+     border:none;
+}
+#card1{
+    width:18rem;
+}
+.card-body{
+    border:none;
+    border-color: white;
+}
+.card-title{
+    color:  rgb(168, 25, 25);
+}
